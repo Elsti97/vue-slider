@@ -2,4 +2,18 @@
   scale: 2.5;
   margin: 0 1rem;
   color: gray;
+  cursor: pointer;
 }
+
+.foto-principale {
+  width:30rem;
+}
+
+.le_foto{
+  display: inline-block;
+}
+
+.foto_piccole{
+  max-width: 15rem;
+}
+
